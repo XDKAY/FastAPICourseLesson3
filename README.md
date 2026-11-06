@@ -22,7 +22,7 @@
 
 2. **Перейти в проект**
 
-`cd FastAPICourseLesson1`
+`cd FastAPICourseLesson3`
 
 3. **Создание виртуального окружения**
 
