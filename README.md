@@ -18,7 +18,7 @@
 
 1. **Клонирование репозитория**
 
-`git clone git@github.com:XDKAY/FastAPICourseLesson1.git`
+`git clone git@github.com:XDKAY/FastAPICourseLesson3.git`
 
 2. **Перейти в проект**
 
